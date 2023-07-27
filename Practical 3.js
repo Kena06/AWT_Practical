@@ -14,7 +14,7 @@ function add(num1, num2) {
     return "Hello World !!";
   }
 
-const arr1 = [1, "Aneri",6.89];
+const arr1 = [1, "Kena",6.89];
 console.log("without spread ... of : ",arr1);
 const arr2 = [...arr1, true, 5];
 console.log("With spread ... of : ",arr2);
